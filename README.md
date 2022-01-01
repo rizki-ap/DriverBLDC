@@ -10,9 +10,11 @@ Spesifikasi Input
 - masukan reverse
 - power: 60V-DC, maks 40A
 - masukan brake
+
 Spesifikasi Output
 - fasa motor BLDC, 3-wire (U,V,W), 60V, ~25A
 - motor speed (pulse?), ke display/dashboard
+
 Spesifikasi Fungsi
 - mengendalikan motor BLDC, 60V (nominal), 1500W
 
